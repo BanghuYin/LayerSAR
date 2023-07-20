@@ -24,17 +24,16 @@ Marabou, ERAN, Venus, Venus2 and nnenum in verifying safety
 and robustness properties on the benchmarks.
 
 # Citing LayerSAR
-@article{Yin, Banghu;Chen, Liqian;Liu, Jiangchao;Wang, Ji2022Efficient Complete Verification of Neural Networks via Layerwised Splitting and Refinement,
-title={Efficient Complete Verification of Neural Networks via Layerwised Splitting and Refinement},
-author={Yin, Banghu;Chen, Liqian;Liu, Jiangchao;Wang, Ji},
-journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
-issue={No.11},
-pages={3898-3909},
-year={2022},
+@article{Yin, Banghu;Chen, Liqian;Liu, Jiangchao;Wang, Ji2022Efficient Complete Verification of Neural Networks via Layerwised Splitting and Refinement,  
+title={Efficient Complete Verification of Neural Networks via Layerwised Splitting and Refinement},  
+author={Yin, Banghu;Chen, Liqian;Liu, Jiangchao;Wang, Ji},  
+journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},  
+issue={No.11},  
+pages={3898-3909},  
+year={2022},  
 }
 
 
 # Main Contributors
-Banghu Yin - bhyin@nudt.edu.cn
-
+Banghu Yin - bhyin@nudt.edu.cn  
 Liqian Chen - lqchen@nudt.edu.cn
