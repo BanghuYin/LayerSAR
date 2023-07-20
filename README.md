@@ -1,4 +1,4 @@
-# LayerSAR: Efficient Complete Verification of Neural Networks via Layer-wised Splitting and Refinement
+# LayerSAR: A Efficient and Complete NN Verifier
 Abstract—Safety and robustness properties are highly required
 for neural networks deployed in safety critical applications.
 Current complete verification techniques of these properties
@@ -25,19 +25,12 @@ and robustness properties on the benchmarks.
 
 # Citing LayerSAR
 @article{Yin, Banghu;Chen, Liqian;Liu, Jiangchao;Wang, Ji2022Efficient Complete Verification of Neural Networks via Layerwised Splitting and Refinement,
-
 title={Efficient Complete Verification of Neural Networks via Layerwised Splitting and Refinement},
-
 author={Yin, Banghu;Chen, Liqian;Liu, Jiangchao;Wang, Ji},
-
 journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
-
 issue={No.11},
-
 pages={3898-3909},
-
 year={2022},
-
 }
 
 
